@@ -2,3 +2,4 @@ FSC subjects :
 Physics 
 Chemistry 
 Math 
+English 
